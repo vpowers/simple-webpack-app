@@ -1,4 +1,4 @@
-# simple-react-app
+# simple-webpack-app
 Simple webpack app that uses video.js with the hls plugin
 
 

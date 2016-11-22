@@ -1,0 +1,12 @@
+{
+  "name": "simple-webpack-app",
+  "version": "0.0.1",
+  "dependencies": {
+    "video.js": "^5.12.6",
+    "videojs-contrib-hls": "^3.7.0-beta3",
+    "webworkify-webpack-dropin": "^1.1.9"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.3"
+  }
+}
